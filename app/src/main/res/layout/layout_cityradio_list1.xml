@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/row_layout1"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="15dp"
+    android:background="#f6f8f7"
+    android:backgroundTint="#f1f1f1"
+    android:orientation="vertical"
+    app:cardCornerRadius="20dp">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="2dp">
+
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/row_logo1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:elevation="20dp"
+            android:padding="5dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/demo_item"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="packed"
+            app:layout_constraintVertical_weight="11"
+            app:riv_corner_radius_top_left="20dp"
+            app:riv_corner_radius_top_right="20dp"
+            />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="5dp"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayout4"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/row_logo1"
+            app:layout_constraintVertical_weight="2">
+
+            <TextView
+                android:id="@+id/textView_radio_name1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="8"
+                android:ellipsize="end"
+                android:gravity="bottom"
+                android:maxLines="1"
+                android:text="Name"
+                android:textColor="#383838"
+                android:textSize="15dp" />
+
+            <ImageView
+                android:id="@+id/imageView_fav"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+
+                android:src="@drawable/unfav" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="5dp"
+            android:layout_marginBottom="2dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout3"
+            app:layout_constraintVertical_weight="2">
+
+            <TextView
+                android:id="@+id/textView_list_lang1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Text"
+                android:maxLines="1"
+                android:textColor="#383838"
+                android:textSize="13dp" />
+
+            <ImageView
+                android:id="@+id/imageView_eye"
+                android:layout_width="13dp"
+                android:layout_height="13dp"
+                android:layout_marginLeft="15dp"
+                android:src="@drawable/eye" />
+
+            <TextView
+                android:id="@+id/textView_view1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:hint="Views"
+                android:textSize="12dp" />
+
+        </LinearLayout>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f90654-b13c-4b35-89cb-9a0f8f05b6be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_28]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="E:\APP\app chuan2020\Project android studio\folder desktop08_2020\app radio\radiofreeonline.jks" />
+    <option name="KEY_ALIAS" value="radiofreeonline" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="ProjectId" id="1kyYTryD8rdcmvJXr9XQYNvLIW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="Best_Radio_Free_Online2.app" />
+    <property name="ExportApk.ApkPath" value="E:\APP\app chuan2020\Project android studio\Best Radio Free Online2\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alexnguyen.radiofreeonline" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tuan\Downloads\Programs\Best Radio Free Online\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Best_Radio_Free_Online.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f90654-b13c-4b35-89cb-9a0f8f05b6be" name="Default Changelist" comment="" />
+      <created>1606674308090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606674308090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1624013828500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624013828500" />
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog" timestamp="1623950288425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623950288425" />
+    <state x="758" y="266" key="AndroidProcessChooserDialog" timestamp="1624018473410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="266" key="AndroidProcessChooserDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624018473410" />
+    <state x="-983" y="279" key="FileChooserDialogImpl" timestamp="1624089206550">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state x="-983" y="279" key="FileChooserDialogImpl/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624089206550" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624026589891" />
+    <state width="1557" height="499" key="GridCell.Tab.0.bottom" timestamp="1624090143540">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state width="1557" height="499" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090143540" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965395" />
+    <state width="1557" height="499" key="GridCell.Tab.0.center" timestamp="1624090143540">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state width="1557" height="499" key="GridCell.Tab.0.center/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090143540" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1557" height="499" key="GridCell.Tab.0.left" timestamp="1624090143539">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state width="1557" height="499" key="GridCell.Tab.0.left/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090143539" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1557" height="499" key="GridCell.Tab.0.right" timestamp="1624090143540">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state width="1557" height="499" key="GridCell.Tab.0.right/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090143540" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom" timestamp="1623952885892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.center" timestamp="1623952885892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.left" timestamp="1623952885892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.right" timestamp="1623952885892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state x="-1299" y="127" key="SettingsEditor" timestamp="1624090239115">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state x="-1299" y="127" key="SettingsEditor/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090239115" />
+    <state x="-1600" y="0" width="1600" height="947" maximized="true" key="dock-window-1" timestamp="1624026239558">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1600" y="0" width="1600" height="947" maximized="true" key="dock-window-1/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624026239558" />
+    <state x="-1580" y="6" width="1544" height="947" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1624011337799" />
+    <state x="-1584" y="0" width="1600" height="947" maximized="true" key="dock-window-2" timestamp="1624016278305">
+      <screen x="-1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1584" y="0" width="1600" height="947" maximized="true" key="dock-window-2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624016278305" />
+    <state x="527" y="357" width="670" height="676" key="search.everywhere.popup" timestamp="1624028288833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="357" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624028288833" />
+  </component>
+</project>

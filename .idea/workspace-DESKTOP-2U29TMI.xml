@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="Best_Radio_Free_Online" />
+      <module name="Best_Radio_Free_Online.app" />
+      <module name="Best_Radio_Free_Online.checkbox" />
+      <module name="Best_Radio_Free_Online.slider" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f90654-b13c-4b35-89cb-9a0f8f05b6be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="E:\APP\app chuan2020\Project android studio\folder desktop08_2020\app radio\radiofreeonline.jks" />
+    <option name="KEY_ALIAS" value="radiofreeonline" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="ProjectId" id="1kyYTryD8rdcmvJXr9XQYNvLIW3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BundleExportedModule" value="Best_Radio_Free_Online2.app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-29T10:33:22.175Z" />
+    <property name="ExportApk.ApkPath" value="E:\APP\app chuan2020\Project android studio\Best Radio Free Online2\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/ACER/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Android/Best Radio Free Online/app/src/main/java/com/alexnguyen/utils/StatusBarView.java_SELECTED" value="StatusBarView" />
+    <property name="android-custom-viewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Best Radio Free Online/app/src/main/java/com/alexnguyen/utils/TemplateView.java_SELECTED" value="TemplateView" />
+    <property name="android-custom-viewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Best Radio Free Online/nativetemplates/src/main/java/com/google/android/ads/nativetemplates/TemplateView.java_SELECTED" value="TemplateView" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/ACER/AppData/Local/Android/Sdk/sources/android-28/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Android/Best Radio Free Online/app/src/main/java/com/alexnguyen/utils/StatusBarView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Best Radio Free Online/app/src/main/java/com/alexnguyen/utils/TemplateView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/ACER/Onedrive DUT 2021/OneDrive - The University of Technology/Documents/Best Radio Free Online/nativetemplates/src/main/java/com/google/android/ads/nativetemplates/TemplateView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alexnguyen.radiofreeonline" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\Onedrive DUT 2021\OneDrive - The University of Technology\Documents\Best Radio Free Online\app\src\main\res\drawable" />
+      <recent name="C:\Users\ACER\Onedrive DUT 2021\OneDrive - The University of Technology\Documents\Best Radio Free Online\app\src\main\res\layout" />
+      <recent name="C:\Users\ACER\Onedrive DUT 2021\OneDrive - The University of Technology\Documents\Best Radio Free Online\app\src\main\res\values" />
+      <recent name="C:\Users\ACER\Onedrive DUT 2021\OneDrive - The University of Technology\Documents\Best Radio Free Online\app\src\main\java\com\alexnguyen\utils" />
+      <recent name="C:\Users\Tuan\Downloads\Programs\Best Radio Free Online\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Best_Radio_Free_Online.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f90654-b13c-4b35-89cb-9a0f8f05b6be" name="Default Changelist" comment="" />
+      <created>1606674308090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606674308090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="Best_Radio_Free_Online.nativetemplates" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="509" y="16" key="#app" timestamp="1624962444143">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="16" key="#app/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624962444143" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1624013828500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624013828500" />
+    <state x="92" y="92" width="1417" height="677" key="AVDManager" timestamp="1624870418509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1508" y="144" width="1416" height="676" key="AVDManager/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624092037458" />
+    <state x="110" y="111" width="1700" height="818" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1624196294683" />
+    <state x="92" y="92" width="1417" height="677" key="AVDManager/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624870418509" />
+    <state x="450" y="227" key="AndroidCreateResourceFileDialog" timestamp="1624685640907">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="540" y="275" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623950288425" />
+    <state x="450" y="227" key="AndroidCreateResourceFileDialog/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624685640907" />
+    <state x="611" y="202" key="AndroidCreateXmlResourceDialog" timestamp="1624865038652">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="202" key="AndroidCreateXmlResourceDialog/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624865038652" />
+    <state x="758" y="266" key="AndroidProcessChooserDialog" timestamp="1624018473410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="266" key="AndroidProcessChooserDialog/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624018473410" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1625120256084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-983" y="279" key="FileChooserDialogImpl/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624089206550" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624026589891" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1625120256084" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624196288576" />
+    <state x="617" y="227" key="FileChooserDialogImpl/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624638102919" />
+    <state width="1557" height="279" key="GridCell.Tab.0.bottom" timestamp="1624897408512">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1444" height="179" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624181000236" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965395" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268821" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624196006393" />
+    <state width="1557" height="279" key="GridCell.Tab.0.bottom/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624897408512" />
+    <state width="1557" height="279" key="GridCell.Tab.0.center" timestamp="1624897408512">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1444" height="179" key="GridCell.Tab.0.center/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624181000236" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268820" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624196006393" />
+    <state width="1557" height="279" key="GridCell.Tab.0.center/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624897408512" />
+    <state width="1557" height="279" key="GridCell.Tab.0.left" timestamp="1624897408511">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1444" height="179" key="GridCell.Tab.0.left/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624181000236" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268820" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624196006393" />
+    <state width="1557" height="279" key="GridCell.Tab.0.left/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624897408511" />
+    <state width="1557" height="279" key="GridCell.Tab.0.right" timestamp="1624897408512">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1444" height="179" key="GridCell.Tab.0.right/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624181000236" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624031965394" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268820" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624196006393" />
+    <state width="1557" height="279" key="GridCell.Tab.0.right/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624897408512" />
+    <state width="1557" height="125" key="GridCell.Tab.1.bottom" timestamp="1624889510087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="240" key="GridCell.Tab.1.bottom/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624179794030" />
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268821" />
+    <state width="1557" height="125" key="GridCell.Tab.1.bottom/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624889510087" />
+    <state width="1557" height="125" key="GridCell.Tab.1.center" timestamp="1624889510087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="240" key="GridCell.Tab.1.center/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624179794030" />
+    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.center/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268821" />
+    <state width="1557" height="125" key="GridCell.Tab.1.center/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624889510087" />
+    <state width="1557" height="125" key="GridCell.Tab.1.left" timestamp="1624889510087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="240" key="GridCell.Tab.1.left/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624179794030" />
+    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.left/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268821" />
+    <state width="1557" height="125" key="GridCell.Tab.1.left/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624889510087" />
+    <state width="1557" height="125" key="GridCell.Tab.1.right" timestamp="1624889510087">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="240" key="GridCell.Tab.1.right/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624179794030" />
+    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1623952885892" />
+    <state width="1877" height="281" key="GridCell.Tab.1.right/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211268821" />
+    <state width="1557" height="125" key="GridCell.Tab.1.right/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624889510087" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1624870068753">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="-1299" y="127" key="SettingsEditor/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624090239115" />
+    <state x="301" y="75" key="SettingsEditor/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624870068753" />
+    <state x="1600" y="-58" width="1282" height="845" key="dock-window-1" timestamp="1624862783826">
+      <screen x="1600" y="-103" width="1536" height="832" />
+    </state>
+    <state x="-1600" y="0" width="1600" height="947" maximized="true" key="dock-window-1/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624026239558" />
+    <state x="-1503" y="105" width="1616" height="947" key="dock-window-1/0.0.1920.1040/-1600.72.1600.860@0.0.1920.1040" timestamp="1624211272279" />
+    <state x="-1580" y="6" width="1544" height="947" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1624011337799" />
+    <state x="1600" y="-58" width="1282" height="845" key="dock-window-1/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624862783826" />
+    <state x="1600" y="-86" width="1351" height="845" key="dock-window-2" timestamp="1624685683144">
+      <screen x="1600" y="-103" width="1536" height="832" />
+    </state>
+    <state x="-1584" y="0" width="1600" height="947" maximized="true" key="dock-window-2/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624016278305" />
+    <state x="1600" y="-86" width="1351" height="845" key="dock-window-2/1600.-103.1536.832/0.0.1600.860@0.0.1600.860" timestamp="1624685683144" />
+    <state x="-1144" y="221" key="run.anything.popup" timestamp="1624099300128">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state x="-1144" y="221" key="run.anything.popup/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624099300128" />
+    <state x="-1161" y="347" width="559" height="559" key="search.everywhere.popup" timestamp="1624180623386">
+      <screen x="-1600" y="52" width="1600" height="860" />
+    </state>
+    <state x="-1161" y="347" width="559" height="559" key="search.everywhere.popup/0.0.1536.824/-1600.52.1600.860@-1600.52.1600.860" timestamp="1624180623386" />
+    <state x="527" y="357" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1624028288833" />
+  </component>
+</project>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="25dp"
+    android:background="@null"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    app:cardUseCompatPadding="true"
+    android:weightSum="11">
+
+
+    <LinearLayout
+        android:id="@+id/row_layout"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="8"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/row_logo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_above="@+id/textView_radio_name"
+            android:scaleType="centerCrop"
+            android:src="@drawable/demo_item"
+            app:riv_corner_radius_bottom_left="18dp"
+            app:riv_corner_radius_bottom_right="18dp"
+            app:riv_corner_radius_top_left="18dp"
+            app:riv_corner_radius_top_right="18dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView_radio_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginTop="7dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="7dp"
+                    android:ellipsize="end"
+                    android:hint="Name"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:textSize="15dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/imageView_eye"
+                        android:layout_width="14dp"
+                        android:layout_height="14dp"
+                        android:layout_marginRight="6dp"
+                        app:srcCompat="@drawable/eye" />
+
+                    <TextView
+                        android:id="@+id/textView_view"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginRight="6dp"
+                        android:hint="Views"
+                        android:textColor="@color/white"
+                        android:textSize="12dp" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView_list_lang"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:hint="Text"
+        android:layout_marginRight="5dp"
+        android:maxLines="1"
+        android:textAlignment="textEnd"
+        android:textColor="@color/white"
+        android:textSize="13dp" />
+
+
+</LinearLayout >

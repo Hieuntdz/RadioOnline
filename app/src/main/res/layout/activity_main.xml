@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/frame_content_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="radioentertainment.radiofreeonline.com.vpapps.fragments.FragmentMain" />
+
+<!--    <androidx.coordinatorlayout.widget.CoordinatorLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        tools:context="radioentertainmenttainment.radio.com.vpapps.fragments.FragmentMain">-->
+
+<!--        <com.google.android.material.appbar.AppBarLayout-->
+<!--            android:id="@+id/appBar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:theme="@style/AppTheme.AppBarOverlay">-->
+
+<!--            <com.google.android.material.tabs.TabLayout-->
+<!--                android:id="@+id/tabs_fav"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                app:tabIndicatorColor="@color/white"-->
+<!--                app:tabIndicatorHeight="4dp">-->
+
+<!--                <com.google.android.material.tabs.TabItem-->
+<!--                    android:id="@+id/tabItem_home"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="@string/tab_1" />-->
+
+<!--                <com.google.android.material.tabs.TabItem-->
+<!--                    android:id="@+id/tabItem_city"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="@string/tab_2" />-->
+
+<!--                <com.google.android.material.tabs.TabItem-->
+<!--                    android:id="@+id/tabItem_language"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="@string/tab_3" />-->
+
+<!--                <com.google.android.material.tabs.TabItem-->
+<!--                    android:id="@+id/tabItem_radios"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:text="@string/tab_4" />-->
+
+<!--            </com.google.android.material.tabs.TabLayout>-->
+
+<!--        </com.google.android.material.appbar.AppBarLayout>-->
+
+<!--        <androidx.viewpager.widget.ViewPager-->
+<!--            android:id="@+id/viewPager_main"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            app:layout_behavior="@string/appbar_scrolling_view_behavior" />-->
+
+<!--    </androidx.coordinatorlayout.widget.CoordinatorLayout>-->
+
+</LinearLayout>

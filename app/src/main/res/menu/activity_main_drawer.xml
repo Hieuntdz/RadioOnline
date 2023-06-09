@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/home"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_premium"
+            android:icon="@drawable/ic_premium"
+            android:title="Get Premium"
+            android:visible="true"/>
+
+        <item
+            android:id="@+id/nav_ondemand"
+            android:icon="@mipmap/radio"
+            android:title="@string/on_demand"
+            android:visible="true"/>
+
+        <item
+            android:id="@+id/nav_featured"
+            android:icon="@mipmap/featured"
+            android:title="@string/featured" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@mipmap/fav_menu"
+            android:title="@string/favourite" />
+
+        <item
+            android:id="@+id/nav_fb"
+            android:icon="@mipmap/fb"
+            android:title="@string/facebook" />
+
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@mipmap/twitter"
+            android:title="@string/twittr" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@mipmap/profile"
+            android:title="@string/profile" />
+
+        <item
+            android:id="@+id/nav_sug"
+            android:icon="@mipmap/profile"
+            android:title="@string/suggestion" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_shareapp"
+        android:icon="@mipmap/share"
+        android:title="@string/share_app" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@mipmap/privacy"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/nav_login"
+        android:icon="@mipmap/profile"
+        android:title="@string/login" />
+
+</menu>

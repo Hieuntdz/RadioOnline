@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_home"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:clickable="true"
+        android:foreground="?attr/selectableItemBackground"
+        card_view:cardPreventCornerOverlap="false"
+        card_view:elevation="10dp">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:background="@drawable/border_image_radio_item"
+            android:id="@+id/imageView_radio_home"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            card_view:riv_corner_radius="20dp"
+            android:scaleType="centerCrop"
+            android:padding="0.5dp"/>
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp">
+
+            <TextView
+                android:id="@+id/textView_radio_home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toStartOf="@+id/imageView_fav_home"
+                android:layout_toLeftOf="@+id/imageView_fav_home"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:text="Radio City"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textView_freq_home"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView_radio_home"
+                android:layout_toStartOf="@+id/imageView_fav_home"
+                android:layout_toLeftOf="@+id/imageView_fav_home"
+                android:maxLines="2"
+                android:text="92.5"
+                android:textColor="@color/freq_home"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/imageView_fav_home"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:padding="5dp"
+                android:src="@drawable/unfav" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+    <!--    <RelativeLayout-->
+    <!--        android:id="@+id/rl_home"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:background="?attr/selectableItemBackground"-->
+    <!--        android:gravity="center"-->
+    <!--        android:orientation="vertical"-->
+    <!--        android:padding="15dp">-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/imageView_radio_home"-->
+    <!--            android:layout_width="45dp"-->
+    <!--            android:layout_height="45dp"-->
+    <!--            android:layout_marginEnd="10dp"-->
+    <!--            android:layout_marginRight="10dp"-->
+    <!--            android:scaleType="centerCrop" />-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/textView_radio_home"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_toEndOf="@+id/imageView_radio_home"-->
+    <!--            android:layout_toLeftOf="@+id/imageView_fav_home"-->
+    <!--            android:layout_toRightOf="@+id/imageView_radio_home"-->
+    <!--            android:layout_toStartOf="@+id/imageView_fav_home"-->
+    <!--            android:ellipsize="end"-->
+    <!--            android:maxLines="1"-->
+    <!--            android:text="Radio City"-->
+    <!--            android:textColor="@color/black"-->
+    <!--            android:textSize="15sp" />-->
+
+    <!--        <TextView-->
+    <!--            android:id="@+id/textView_freq_home"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_below="@+id/textView_radio_home"-->
+    <!--            android:layout_toEndOf="@+id/imageView_radio_home"-->
+    <!--            android:layout_toLeftOf="@+id/imageView_fav_home"-->
+    <!--            android:layout_toRightOf="@+id/imageView_radio_home"-->
+    <!--            android:layout_toStartOf="@+id/imageView_fav_home"-->
+    <!--            android:text="92.5"-->
+    <!--            android:textColor="@color/freq_home"-->
+    <!--            android:textSize="12sp" />-->
+
+    <!--        <ImageView-->
+    <!--            android:id="@+id/imageView_fav_home"-->
+    <!--            android:layout_width="45dp"-->
+    <!--            android:layout_height="45dp"-->
+    <!--            android:layout_alignParentEnd="true"-->
+    <!--            android:layout_alignParentRight="true"-->
+    <!--            android:padding="5dp"-->
+    <!--            android:src="@mipmap/fav" />-->
+
+    <!--    </RelativeLayout>-->
+
+    <!--    <View-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="1dp"-->
+    <!--        android:background="#20000000"-->
+    <!--        android:layout_below="@+id/rl_home"/>-->
+
+</LinearLayout>

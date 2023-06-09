@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884422652446",
+    "project_id": "jazz-radio-e42be",
+    "storage_bucket": "jazz-radio-e42be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884422652446:android:ccca18551373eecff5b40f",
+        "android_client_info": {
+          "package_name": "com.radioentertainment.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884422652446-vd26sqcachhon9iju55oqeggmjcesute.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radioentertainment.radio",
+            "certificate_hash": "f6a5557d646e58ac03aa52f2fc25a43391ec599f"
+          }
+        },
+        {
+          "client_id": "884422652446-qjt42un0hfher06m219bncp2tmu90fqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_q0wCr1xErdaJMA7Ys1aLu8hZsKLRL1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884422652446-qjt42un0hfher06m219bncp2tmu90fqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
