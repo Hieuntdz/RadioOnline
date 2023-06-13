@@ -54,6 +54,8 @@ public class MyApplication extends Application {
                 .build());
 
         OneSignal.initWithContext(this);
+        OneSignal.setAppId("4aaccb1c-0c22-4ae6-9f12-bcdbb6ba5949");
+        OneSignal.promptForPushNotifications();
         MobileAds.initialize(getApplicationContext(), getApplicationContext().getString(R.string.admob_app_id));
     }
 
